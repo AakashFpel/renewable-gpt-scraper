@@ -23,4 +23,4 @@ paths:
                   summary:
                     type: object
 servers:
-  - url: https://your-api-url.onrender.com
+  - url: https://renewable-gpt-api.onrender.com
