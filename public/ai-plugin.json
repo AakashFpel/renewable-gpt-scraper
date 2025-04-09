@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Renewable India Watch",
+  "name_for_model": "renewable_updates",
+  "description_for_human": "Fetch daily policy and regulatory summaries from Indian renewable energy agencies.",
+  "description_for_model": "Fetches and summarizes renewable policy and regulatory updates from government sites in India.",
+  "auth": {
+    "type": "user_http"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://your-static-url.onrender.com/openapi.yaml"
+  },
+  "logo_url": "https://dummyimage.com/64x64/00aaff/ffffff.png&text=RE",
+  "contact_email": "support@example.com",
+  "legal_info_url": "https://example.com/legal"
+}
