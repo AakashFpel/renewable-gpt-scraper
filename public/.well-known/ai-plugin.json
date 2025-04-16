@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://renewable-gpt-plugin.onrender.com/openapi.yaml"
+    "url": "https://renewable-gpt-plugin.onrender.com/openapi.json"
   },
   "logo_url": "https://dummyimage.com/64x64/00aaff/ffffff.png&text=RE",
   "contact_email": "support@example.com",
